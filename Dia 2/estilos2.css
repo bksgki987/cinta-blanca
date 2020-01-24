@@ -1,0 +1,23 @@
+body {
+    background: yellow;
+    color: rgb(0, 55, 128);
+
+}
+
+img {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    
+    
+  
+}
+
+.Parrafo{
+    width: 100px;
+    height: 100px;
+    overflow: scroll;
+    background: whitesmoke;
+
+}

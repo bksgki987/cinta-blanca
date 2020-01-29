@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,95,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h2{
+    text-align: center;
+}
+
+.carousel-inner{
+    padding: 100px;
+    border: 20px;
+    margin: 20;
+}
+
+.boton_compartir{
+    text-align: center;
+}
+
+.btn-primary{
+    color: black;
+    border-radius: 50px;
+    width: 200px;
+    height: 45px;
+}
+
+.boton{
+    text-align: center;
+}
+button{
+    width: 200;
+}

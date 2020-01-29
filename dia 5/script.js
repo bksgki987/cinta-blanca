@@ -32,9 +32,23 @@ let indefinido; //undefined
 
 //estructuras de control
 
-if (nombre == "cecilio"){
-    console.log(" Hola cecilio!");
-} else{
-    console.log("Nombre incorrecto")
+//if (nombre == "cecilio"){
+  //  console.log(" Hola cecilio!");
+//} 
+//else{
+  //  console.log("Nombre incorrecto")
+//}
+
+if (edad == 18){
+    console.log("tu edad es 18");
+
+}
+
+if (edad > 18){
+    console.log("eres mayor de edad");
+
+}
+else if (edad < 18){
+    console.log(" eres menor de edad");
 }
 

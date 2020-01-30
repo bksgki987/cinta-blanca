@@ -44,3 +44,16 @@ button{
     }
 }
 
+.card-img-top{
+    width: 100;
+    height: 350px;
+
+}
+
+.cartas{
+    height: 860px;
+}
+
+footer{
+    text-align: center;
+}
